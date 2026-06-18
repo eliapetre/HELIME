@@ -27,11 +27,20 @@ HELIME/
 ```
 ## Prelimanary requirements
 ```
-In order to run this project, it is recommended to have installed:
-```bash
-Python 3.10+
-```
+In order to run this project, it is recommended to have installed Python 3.10+
 All neccesarry are mentioned in (requirements.txt)
+```
+###Install
+```bash
+pip install -r requirements.txt
 
+To check the installed modules, you can run:
+```bash
+pip list
+```
+###Requirements.txt file
+```bash
+pip install -r requirements.txt
+```
 ---
 
