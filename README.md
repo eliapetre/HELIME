@@ -36,7 +36,6 @@ The list of the main libraries used is as follows:
 - `lime` – generating local explanations for model predictions;
 - `matplotlib` – generating plots and visualizing results;
 - `seaborn` – statistical visualizations;
-- `jupyter` – running experiments in interactive notebooks;
 - `scipy` – scientific calculations and mathematical functions used by some libraries;
 - `joblib` – saving and loading trained models.
 The exact versions of the modules are listed in the `requirements.txt` file to ensure reproducible results.
