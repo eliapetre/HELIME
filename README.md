@@ -2,10 +2,12 @@
 ## Project description
 
 ---
-## goal
+## Goal
+
+---
 
 ## Project structure
-```text
+```The project is structured as:
 HELIME/
 │
 ├── data/
@@ -23,6 +25,13 @@ HELIME/
 ├── requirements.txt
 └── README.md
 ```
+## Prelimanary requirements
+```
+In order to run this project, it is recommended to have installed:
+```bash
+Python 3.10+
+```
+All neccesarry are mentioned in (requirements.txt)
 
 ---
 
