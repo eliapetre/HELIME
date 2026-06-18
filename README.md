@@ -12,7 +12,10 @@ The list of the main libraries used is as follows:
 - `matplotlib` – generating plots and visualizing results;
 - `seaborn` – statistical visualizations;
 - `scipy` – scientific calculations and mathematical functions used by some libraries;
-- `joblib` – saving and loading trained models.  
+- `joblib` – saving and loading trained models;
+- `tensorflow` – build, train evaluate machine learning and deep learning models;
+- `keras` – framework for neural network models;
+- `imblearn` – handling imbalanced datasets using techniques such as oversampling, undersampling, or combined methods.  
 The exact versions of the modules are listed in the `requirements.txt` file to ensure reproducible results.
 
 ### Install
