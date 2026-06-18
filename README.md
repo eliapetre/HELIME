@@ -1,4 +1,6 @@
 # HELIME
+This code was developed by Lidia Angelica Iancu (lidia.iancu@upg-ploiesti.ro), Gabriela Moise (gmoise@upg-ploiesti.ro), and Elia Georgiana Dragomir (elia.dragomir@upg-ploiesti.ro)   as part of a research study included in an article currently under review.
+
 After installing lime, in ```lime/lime_tabular.py``` replace  
 ```
 def explain_instance(self,
