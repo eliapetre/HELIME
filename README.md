@@ -27,7 +27,7 @@ HELIME/
 ```
 ## Prelimanary requirements
 
-In order to run this project, it is recommended to have installed Python 3.10+  
+In order to run this project, it is recommended to have installed `Python 3.10+`  
 All the modules required to run the project are specified in the `requirements.txt` file.  
 The list of the main libraries used is as follows:
 - `numpy` – numerical operations and vector/matrix manipulation;
@@ -40,8 +40,6 @@ The list of the main libraries used is as follows:
 - `scipy` – scientific calculations and mathematical functions used by some libraries;
 - `joblib` – saving and loading trained models.
 The exact versions of the modules are listed in the `requirements.txt` file to ensure reproducible results.
-
-Translated with DeepL.com (free version)
 
 ### Install
 ```bash
