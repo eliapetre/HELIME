@@ -1,16 +1,12 @@
 # HELIME
 After installing lime, in lime/lime_tabular.py replace  
-def explain_instance(self,  
-                         data_row,  
-                         predict_fn,  
-                         labels=(1,),  
-                         top_labels=None,  
-                         num_features=10,  
-                         num_samples=5000,  
-                         distance_metric='euclidean',  
+```
+def explain_instance(self,data_row, predict_fn, labels=(1,),  top_labels=None, num_features=10, num_samples=5000, distance_metric='euclidean',  
                          model_regressor=None,  
-                         sampling_method='gaussian')    
-  with   
+                         sampling_method='gaussian')
+```
+  with 
+  ```
   def explain_instance_helime(self,   
                                 data_row,                              
                                 x_star,  
@@ -27,7 +23,7 @@ def explain_instance(self,
                                 n_radial=10,  
                                 n_fi=10)    
                          
-                         
+              ```           
 
 ## Prelimanary requirements
 
