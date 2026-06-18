@@ -30,7 +30,6 @@ pip install -r requirements.txt
 ---
 ## Project Availability and Future Collaborations
 The complete project, including the source code, experimental scripts, documentation, dependency files, and result-related materials, can be made available upon request.  
-For access to the complete project or for inquiries regarding future research collaborations, please contact:
-``` Gabriela Moise
-gmoise@upg-ploiesti.ro
-```
+For access to the complete project or for inquiries regarding future research collaborations, please contact:  
+Gabriela Moise: gmoise@upg-ploiesti.ro
+
