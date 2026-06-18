@@ -1,5 +1,5 @@
 # HELIME
-After installing lime, in lime/lime_tabular.py replace  
+After installing lime, in ```lime/lime_tabular.py``` replace  
 ```
 def explain_instance(self,
                       data_row,
